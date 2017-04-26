@@ -63,7 +63,7 @@ When using an HTML editor, it is inconvenient to scroll right and left to read t
 Try to avoid code lines longer than 80 characters.
 
 ### Indentation
-Indent using 2 or 4 spaces (choose one of those and keep the same criteria across the project).
+Indent using 4 spaces.
 Don't use tabs or mix tabs and spaces for indentation.
 
 ### Document Type:
