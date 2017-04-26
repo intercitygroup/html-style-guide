@@ -83,6 +83,14 @@ Using HTML according to its purpose is important for accessibility, reuse, code 
   <a href="recommendations/">All recommendations</a>
 ```
 
+### JavaScript hooks
+Avoid binding to the same class in both your CSS and JavaScript. Conflating the two often leads to, at a minimum, time wasted during refactoring when a developer must cross-reference each class they are changing, and at its worst, developers being afraid to make changes for fear of breaking functionality.
+
+Create JavaScript-specific classes to bind to, prefixed with `.js-`:
+```html
+<button class="btn btn-primary js-request-to-book">Request to Book</button>
+```
+
 ### Multimedia Fallback
 Provide alternative contents for multimedia. For multimedia, such as images, videos, animated objects via canvas, make sure to offer alternative access. For images that means use of meaningful alternative text (`alt`) and for video and audio transcripts and captions, if available.
 
