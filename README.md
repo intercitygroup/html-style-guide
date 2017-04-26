@@ -2,6 +2,10 @@
 
 *A mostly reasonable approach to HTML*
 
+#### Other Style Guides
+- [CSS Style Guide](https://github.com/diegoteliz/css-style-guide)
+- [JavaScript Style Guide](https://github.com/diegoteliz/javascript-style-guide)
+
 
 ## <a name='TOC'>Table of Contents</a>
 **(Work in progress...)**
