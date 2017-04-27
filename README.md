@@ -1,10 +1,11 @@
-# < HTML Style Guide >
+# < InterCity's HTML Style Guide >
 
 *A mostly reasonable approach to HTML*
 
 #### Other Style Guides
-- [CSS Style Guide](https://github.com/diegoteliz/css-style-guide)
-- [JavaScript Style Guide](https://github.com/diegoteliz/javascript-style-guide)
+- [CSS Style Guide](https://github.com/intercitygroup/css-style-guide)
+- [JavaScript Style Guide (ES5)](https://github.com/intercitygroup/javascript-es5-style-guide)
+- [JavaScript Style Guide](https://github.com/intercitygroup/javascript-style-guide)
 
 
 ## <a name='TOC'>Table of Contents</a>
@@ -195,5 +196,5 @@ Per HTML5 spec, typically there is no need to specify a `type` when including CS
 <script src="code-guide.js"></script>
 ```
 
-</ HTML Style Guide >
+</ InterCity's HTML Style Guide >
 =
